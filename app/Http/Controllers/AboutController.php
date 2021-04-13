@@ -13,8 +13,8 @@ class AboutController extends Controller
      */
     public function About()
     {
-        echo "Nim : 1941720149 ";
-        echo " Nama : Muhammad Ridho Ramadhan";
+        echo "Nim : 1941720152 ";
+        echo " Nama : Moh. Zulfan Akbar";
     }
 
     /**

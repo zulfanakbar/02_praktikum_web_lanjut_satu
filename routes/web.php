@@ -29,8 +29,8 @@ use App\Http\Controllers\ArticlesController;
 // });
 
 // Route::get('/About', function () {
-//    echo "Nim : 1941720149 ";
-//    echo " Nama : Muhammad Ridho Ramadhan";
+//    echo "Nim : 1941720152 ";
+//    echo " Nama : Moh. Zulfan Akbar";
 // });
 
 // Route::get('/articles/{id}', function ($id) {
